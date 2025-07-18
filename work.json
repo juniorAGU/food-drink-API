@@ -1,0 +1,209 @@
+{
+    "food":[
+        {
+            "id": 1,
+            "name": "Asorted pepper soup",
+            "description": "soup with assorted meat and pepper",
+            "image": "images/asorted pepper soup.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Banger Rice",
+            "description": "A tasty and quality food",
+            "image": "images/banger rice.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Banger Soup",
+            "description": "A well cooked meal",
+            "image": "images/banger soup.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Banger Stew",
+            "description": "soup with fresh banger",
+            "image": "images/banger stew.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Bitter Leaf Soup",
+            "description": "Good food",
+            "image": "images/bitter leaf soup.jpg "
+        },
+        {
+            "id": 6,
+            "name": "Cat Fish PepperSoup",
+            "description": "Good and tasty meal",
+            "image": "images/catfish pepper soup.jpg "
+        },
+        {
+            "id": 7,
+            "name": "Chiken PepperSoup",
+            "description": "Good and quality meal",
+            "image": "images/chiken pepper soup.jpg "
+        },
+        {
+            "id": 8,
+            "name": "Eba",
+            "description": "good and quality meal",
+            "image": "images/eba.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Egusi Soup",
+            "description": "Good and quality meal",
+            "image": " images/egusi soup.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Fisherman Soup",
+            "description": "Good and quality meal",
+            "image": "images/fisher man soup.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Fried Rice",
+            "description": "Good and quality meal",
+            "image": " images/fried rice.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Fufu",
+            "description": "Good and quality meal",
+            "image": "images/fufu.jpg "
+        },
+        {
+            "id": 13,
+            "name": "Isi ewu",
+            "description": "Good and quality meal",
+            "image": "images/isi ewu.jpg "
+        },
+        {
+            "id": 14,
+            "name": "Jollof Rice",
+            "description": "Good and quality meal",
+            "image": "images/jollof rice.jpg "
+        },
+        {
+            "id": 15,
+            "name": "Noodles",
+            "description": "Good and quality meal",
+            "image": " images/noodles.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Ogbono soup",
+            "description": "Good and quality meal",
+            "image": "images/ogbono soup.jpg "
+        },
+        {
+            "id": 17,
+            "name": "Oha Soup",
+            "description": "Good and quality meal",
+            "image": " images/oha soup.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Okra Soup",
+            "description": "Good and quality meal",
+            "image": " images/okra soup.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Peppersoup Noodles",
+            "description": "Good and quality meal",
+            "image": "images/peppersoup noodles.jpg "
+        },
+        {
+            "id": 20,
+            "name": "Perewinko soup",
+            "description": "Good and quality meal",
+            "image": "images/perewinko soup.jpg "
+        },
+        {
+            "id": 21,
+            "name": "Semovita",
+            "description": "Good and quality meal",
+            "image": " images/semovita.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Stew Rice",
+            "description": "Good and quality meal",
+            "image": "images/stew rice.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Starch",
+            "description": "Good and quality meal",
+            "image": "images/starch.jpg"
+        }
+    ],
+
+
+
+    "drinks":[
+        {
+            "id": 1,
+            "name": "Chivita",
+            "description": "chilled",
+            "image": "images/chivita drink.jpg"
+        },
+        {
+            "id": 2,
+            "name": "cola",
+            "description": "chilled",
+            "image": "images/coke.jpg "
+        },
+        {
+            "id": 3,
+            "name": "Fanta",
+            "description": "chilled",
+            "image": "images/fanta.jpg "
+        },
+        {
+            "id": 4,
+            "name": "Hollandia",
+            "description": "chilled",
+            "image": "images/hollandia yoghurt.jpg "
+        },
+        {
+            "id": 5,
+            "name": "Merinda",
+            "description": "chilled",
+            "image": " images/merinda.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Zobo",
+            "description": "chilled",
+            "image": "images/zobo drinks.jpg "
+        },
+        {
+            "id": 7,
+            "name": "Predator",
+            "description": "chilled",
+            "image": " images/predator drinks.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Pepsi",
+            "description": "chilled",
+            "image": " images/pepsi.jpg"
+        },
+        {
+            "id": 9,
+            "name": "PalmWine",
+            "description": "chilled",
+            "image": " images/palm wine.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Tigernut Drinks",
+            "description": "chilled",
+            "image": "images/tigernut drink.jpg"
+        }
+        
+        
+    ]
+}

@@ -1,12 +1,14 @@
 {
-  "name": "pratical_6",
+  "name": "food-drink-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "description": "",
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }

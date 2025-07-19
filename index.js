@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+
 
 // Load your JSON file as data
 const foodData = require('./work.json');
@@ -14,7 +15,6 @@ app.get('/drinks', function(req, res) {
 });
 
 
-// Start the server
-app.listen(PORT, function() {
-  console.log(`Server is running at http://localhost:${PORT}`);
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });

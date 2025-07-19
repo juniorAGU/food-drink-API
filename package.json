@@ -2,9 +2,10 @@
   "name": "food-drink-api",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+ "scripts": {
+  "start": "node index.js",
+  "build": "npm install"
+},
   "dependencies": {
     "express": "^5.1.0"
   },

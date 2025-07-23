@@ -1,5 +1,7 @@
 const express = require('express');
 const cors = require('cors');
+const path = require('path'); //  Importing the 'path' module
+
 const app = express();
 const PORT = process.env.PORT || 3000;
 
@@ -8,18 +10,18 @@ app.use(cors());
 
 const foodData = require('./work.json');
 
-// app.use(express.static('images'));
+//  Serve static files correctly from 't/images' folder
 app.use(express.static(path.join(__dirname, 't/images')));
 
 app.get('/', (req, res) => {
   res.send('🍽️ Welcome to the Food & Drink API');
 });
 
-app.get('/foods', function(req, res) {
+app.get('/foods', (req, res) => {
   res.json(foodData);
 });
 
-app.get('/drinks', function(req, res) {
+app.get('/drinks', (req, res) => {
   res.json(foodData);
 });
 

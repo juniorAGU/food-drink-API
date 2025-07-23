@@ -8,7 +8,8 @@ app.use(cors());
 
 const foodData = require('./work.json');
 
-app.use(express.static('images'));
+// app.use(express.static('images'));
+app.use(express.static(path.join(__dirname, 't/images')));
 
 app.get('/', (req, res) => {
   res.send('🍽️ Welcome to the Food & Drink API');
